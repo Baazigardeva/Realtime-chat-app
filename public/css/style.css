@@ -199,3 +199,8 @@ a {
 		display: none;
 	}
 }
+
+marquee {
+	color: #000000;
+	background-color: #ffffff;
+}
